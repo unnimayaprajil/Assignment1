@@ -1,0 +1,12 @@
+/*author:Unnimaya*/
+table{
+    text-align: center;
+    width: 80%;
+}
+table,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+td,th{
+    padding: 15px;
+}
